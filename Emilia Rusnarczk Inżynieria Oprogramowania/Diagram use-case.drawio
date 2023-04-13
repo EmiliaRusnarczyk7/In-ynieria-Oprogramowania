@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2023-04-05T09:27:11.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="6z34mGXmywA9HZ5tjSXt" version="21.1.4" type="device">
+  <diagram name="Strona-1" id="el2Ja97uhe5Jfx8_7PpY">
+    <mxGraphModel dx="1010" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-3" value="opisuje proces funkcjonalny(sekwencja czynnośći)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-4" value="Naiwa use-case" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="67.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-6" value="użytkownik oddziałowujący za pomocą interfejsu z modowowym systemem (zaw system)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-7" value="Użytkownik-GUI&lt;br&gt;System- Interfejs komunikacyjny" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="245" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-8" value="" style="shape=link;html=1;rounded=0;width=-1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="100" y="380" as="sourcePoint" />
+            <mxPoint x="200" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-9" value="*&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; o&amp;nbsp; &amp;nbsp; &amp;nbsp; *" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-10" value="Używa wykonuje określa relacje pomiedzy aktorem a use casem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="460" as="sourcePoint" />
+            <mxPoint x="170" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-13" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="UFB5PVYr48k-TYvRi-fI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-14" value="zbieżność między use-casami" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-15" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-16" value="stereotyp, oznacza zawieranie się use casu w obowiązkowe wykonuje się na use case wykonującego się" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="620" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-18" value="buy system - zawiera wszystkie use case&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="630" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-19" value="Use case system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="647.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-20" value="stereotyp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UFB5PVYr48k-TYvRi-fI-21" value="wyrażanie tekstu zapisane między nawiasami &quot;&amp;lt;&amp;lt;-&amp;gt;&amp;gt;&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="750" width="355" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
